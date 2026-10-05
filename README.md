@@ -43,7 +43,3 @@ Use `--type dmg` on macOS or `--type deb` on Linux.
 ## Tech Stack
 
 Java, Swing (`javax.swing`), `javax.sound.sampled`
-
-## License
-
-MIT
